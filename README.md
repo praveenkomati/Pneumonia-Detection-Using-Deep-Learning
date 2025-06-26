@@ -1,4 +1,5 @@
 # Pneumonia Detection Using Deep Learning
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveenkomati/Pneumonia-Detection-Using-Deep-Learning/blob/main/Pneumonia%20Classification.ipynb)
 
 This project uses deep learning techniques to detect pneumonia from chest X-ray images. It classifies images into two categories: Normal and Pneumonia using Convolutional Neural Networks (CNN).
 
