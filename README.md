@@ -9,7 +9,7 @@ This project uses deep learning techniques to detect pneumonia from chest X-ray 
 - Source: Kaggle - Chest X-Ray Images (Pneumonia)
 - Classes: NORMAL, PNEUMONIA
 - Total Images: ~5,000+
-- Kaggle - Paultimothymooney Dataset
+- https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ## Tech Stack
 
